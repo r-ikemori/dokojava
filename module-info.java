@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author RYU
+ *
+ */
+module dokojava {
+}
