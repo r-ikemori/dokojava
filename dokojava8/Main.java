@@ -1,4 +1,4 @@
-package dokojava;
+package dokojava8;
 
 public class Main {
 
